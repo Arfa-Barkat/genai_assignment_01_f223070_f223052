@@ -1,0 +1,11 @@
+torch
+torchvision
+pillow
+numpy
+streamlit
+tqdm
+nltk
+rouge-score
+matplotlib
+scikit-learn
+pandas
